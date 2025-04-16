@@ -1,3 +1,5 @@
+![](https://github.com/zharinov-nikita/tw-test-task/blob/master/tw-preview.gif)
+
 # Test Task - Nuxt 3 Authentication App
 
 ## Локальный запуск проекта
